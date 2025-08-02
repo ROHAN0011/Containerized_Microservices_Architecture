@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS users (
+    name VARCHAR(255) PRIMARY KEY,
+    info TEXT NOT NULL
+);
