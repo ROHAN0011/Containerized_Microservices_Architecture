@@ -1,6 +1,6 @@
 # Containerized_Microservices_Architecture
 
-<h3>This is the *intermediate level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h3>
+<h3>This is the *Intermediate Level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h3>
 
 <h2>Learn.......Practice........Apply</h2>
 
