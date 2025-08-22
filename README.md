@@ -3,7 +3,7 @@
 <h4>This is the *Intermediate Level* DevOps project. Very good for the students and the tech freshers who wants to build their carrier in DevOps domain</h4>
 
 <h3>Objective</h3>
-Design and implement a microservices architecture using Docker containers
+<h4>Design and implement a microservices architecture using Docker containers</h4>
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Containerized_Microservices_Architecture/blob/main/Containerized%20Microservices%20Architecture.png" width="1000" height= "500"></p>
 
