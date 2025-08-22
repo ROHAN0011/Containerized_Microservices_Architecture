@@ -7,8 +7,8 @@ This is the *"Intermediate Level"* DevOps project. Very good for the students an
 
 <p align= "center"><img src="https://github.com/ROHAN0011/Containerized_Microservices_Architecture/blob/main/Containerized%20Microservices%20Architecture.png" width="1000" height= "500"></p>
 
-<h4>Implementation Steps :<br>
-(1) First I broken monolithic app into microservices.<br>
+<h3>Implementation Steps :</h3><br>
+<h4>(1) First I broken monolithic app into microservices.<br>
 (2) Then created docker images for each service.<br>
 (3) Set up inter-service communication.<br>
 (4) Implemented Redis for cashing.<br>
